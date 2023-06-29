@@ -21,11 +21,11 @@ To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/najlae01/hello-threejs.git
    ```
 2. Navigate to the project directory.
    ```
-   cd your-repo
+   cd hello-threejs
    ```
 3. Install the dependencies using npm.
    ```
